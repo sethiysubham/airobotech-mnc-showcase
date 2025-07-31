@@ -34,9 +34,8 @@ const About = () => {
             About <span className="bg-gradient-primary bg-clip-text text-transparent">Airobotech Services</span>
           </h2>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
-            A leading multinational corporation at the forefront of software innovation, 
-            specializing in intelligent solutions that transform businesses worldwide.
-          </p>
+                 Driven by code  Defined by Inovation           
+            </p>
         </div>
 
         <div className="grid lg:grid-cols-2 gap-16 items-center mb-20">
